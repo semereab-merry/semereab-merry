@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my profile.
+- 🔭 I’m currently working on building my portfolio website.
 - 🌱 I’m currently learning 42 computer engineering bootcamp.
 <!--- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
