@@ -4,11 +4,11 @@ I'm a coffee enthusiast, and  a doodler in my free time. I'm a fresh graduate fr
 
 - 🌱 I'm currently learning software development and the art of JavaScript.
 - 🚀 I enjoy working on personal projects, turning ideas into reality.
-
+  
 **🎉 Fun fact:** I'm a huge fan of "Despicable Me" and those adorable Minions 🎥.
 <br></br>
 
-<img src= "https://github.com/semereab-merry/semereab-merry/assets/59441158/2f409480-1e82-4165-8f03-d17f0ef5b692" width="100%">
+<img src= "https://github.com/semereab-merry/semereab-merry/assets/59441158/2f409480-1e82-4165-8f03-d17f0ef5b692" width="80%">
 
 <br></br>
 
