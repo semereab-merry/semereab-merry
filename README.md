@@ -1,7 +1,5 @@
 # Hey, I'm Merry Z. Semereab! ☕🎨
 
-## About Me
-
 I'm a coffee enthusiast, and  a doodler in my free time. I'm a fresh graduate from Zayed University, and I'm on a thrilling journey into the tech world, exploring the wonders of software development while sipping on my favorite brew and sketching my dreams.
 
 - 🌱 I'm currently learning software development and the art of JavaScript.
