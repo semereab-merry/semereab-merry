@@ -2,7 +2,7 @@
 
 I'm a coffee enthusiast, and  a doodler in my free time. I'm a fresh graduate from Zayed University, and I'm on a thrilling journey into the tech world, exploring the wonders of software development while sipping on my favorite brew and sketching my dreams.
 
-- 🌱 I'm currently learning software development and the art of JavaScript.
+- 🌱 I'm currently learning software development.
 - 🚀 I enjoy working on personal projects, turning ideas into reality.
   
 **🎉 Fun fact:** I'm a huge fan of "Despicable Me" and those adorable Minions 🎥.
@@ -12,4 +12,4 @@ I'm a coffee enthusiast, and  a doodler in my free time. I'm a fresh graduate fr
 <br></br>
 
  The quote that inspires me all the time 💬 <br></br>
-`   "I am still learning" --Michelangelo   `
+`   "I am still learning" --Michelangelo(Age 84)   `
