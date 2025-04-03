@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ML Engineer
 -----------
-I'm a coffee enthusiast and  a doodler in my free time. I'm a MS Computer Science student in Georgia Tech. I am passionate about AI, machine learning, and software development. I aspire to use technology to solve real-world problems and drive innovation.
+I'm a coffee enthusiast and  a painter in my free time. I'm a MS Computer Science student in Georgia Tech. I am passionate about AI, machine learning, and software development. I aspire to use technology to solve real-world problems and drive innovation.
 
-* 🌍  I'm based in Seattle, WA.
+<!---  * 🌍  I'm based in Seattle, WA. -->
 * 🖥️  See my portfolio at [this website](http://www.kaggle.com/merryzeray)
 * ✉️  You can contact me at [merry0zeray@outlook.com](mailto:merry0zeray@outlook.com)
 * 🧠  I'm learning TensorFlow
