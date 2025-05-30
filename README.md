@@ -5,7 +5,6 @@ ML Engineer
 -----------
 I'm a coffee enthusiast and  a painter in my free time. I'm a MS Computer Science student in Georgia Tech. I am passionate about AI, machine learning, and software development. I aspire to use technology to solve real-world problems and drive innovation.
 
-<!---  * 🌍  I'm based in Seattle, WA. -->
 * 🖥️  See my portfolio at [this website](http://www.kaggle.com/merryzeray)
 * ✉️  You can contact me at [merry0zeray@outlook.com](mailto:merry0zeray@outlook.com)
 * 🧠  I'm learning TensorFlow
@@ -27,7 +26,6 @@ I'm a coffee enthusiast and  a painter in my free time. I'm a MS Computer Scienc
 <p align="left"> <a href="https://www.github.com/semereab-merry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/merry-semereab/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
